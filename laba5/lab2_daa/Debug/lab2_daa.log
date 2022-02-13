@@ -1,0 +1,113 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (lab2_daa.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+  LibPyramid.cpp
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.h(23,34): error C2061: синтаксическая ошибка: идентификатор "CRect"
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.h(9,13): error C2061: синтаксическая ошибка: идентификатор "CDC"
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.h(10,14): error C2061: синтаксическая ошибка: идентификатор "CDC"
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(23,21): error C2065: CDC: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(23,26): error C2065: dc: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(23,38): error C2065: PView: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(23,29): error C2275: CMatrix: недопустимое использование этого типа в качестве выражения
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.h(3): message : см. объявление "CMatrix"
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(23,44): error C2065: CRect: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(23,51): error C2065: RW: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(23,53): error C2761: "void CPyramid::Draw(void)": повторное объявление члена запрещено.
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(24,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(24,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(93,22): error C2065: CDC: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(93,27): error C2065: dc: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(93,39): error C2065: PView: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(93,30): error C2275: CMatrix: недопустимое использование этого типа в качестве выражения
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.h(3): message : см. объявление "CMatrix"
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(93,45): error C2065: CRect: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(93,52): error C2065: RW: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(93,54): error C2761: "void CPyramid::Draw1(void)": повторное объявление члена запрещено.
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(94,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibPyramid.cpp(94,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  LibGraph.cpp
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.h(23,34): error C2061: синтаксическая ошибка: идентификатор "CRect"
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(26,34): error C2061: синтаксическая ошибка: идентификатор "CRect"
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(33,3): error C2065: CSize: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(33,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sz"
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(33,9): error C2065: sz: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(33,14): error C2065: RW: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(34,11): error C2065: sz: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(35,11): error C2065: sz: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(45,42): error C2065: RW: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(46,43): error C2065: RW: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(63,40): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(63,3): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(64,5): error C3861: exit: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(88,40): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(88,3): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\LibGraph.cpp(89,5): error C3861: exit: идентификатор не найден
+  Lab05.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  CMatrix.cpp
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(52,4): error C2065: TCHAR: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(52,11): error C2065: error: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(52,17): error C3861: _T: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(53,15): error C2065: NULL: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(53,20): error C2065: error: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(53,26): error C3861: _T: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(53,45): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(53,4): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(54,6): error C3861: exit: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(66,14): error C2065: NULL: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(66,40): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(66,3): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(67,5): error C3861: exit: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(71,5): error C2065: TCHAR: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(71,12): error C2065: error: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(71,18): error C3861: TEXT: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(72,14): error C2065: NULL: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(72,19): error C2065: error: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(72,25): error C3861: TEXT: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(72,46): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(72,3): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(73,5): error C3861: exit: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(95,14): error C2065: NULL: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(95,40): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(95,3): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(96,5): error C3861: exit: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(112,14): error C2065: NULL: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(112,40): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(112,3): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(113,5): error C3861: exit: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(140,4): error C2065: TCHAR: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(140,11): error C2065: error: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(140,17): error C3861: TEXT: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(141,15): error C2065: NULL: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(141,20): error C2065: error: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(141,26): error C3861: TEXT: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(141,47): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(141,4): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(142,4): error C3861: exit: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(161,4): error C2065: TCHAR: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(161,11): error C2065: error: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(161,17): error C3861: TEXT: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(162,15): error C2065: NULL: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(162,20): error C2065: error: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(162,26): error C3861: TEXT: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(162,47): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(162,4): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(163,4): error C3861: exit: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(218,14): error C2065: NULL: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(218,40): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(218,3): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(219,5): error C3861: exit: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(238,14): error C2065: NULL: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(238,40): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(238,3): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(239,5): error C3861: exit: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(254,14): error C2065: NULL: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(254,40): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(254,3): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(255,5): error C3861: exit: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(274,14): error C2065: NULL: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(274,40): error C2065: MB_ICONSTOP: необъявленный идентификатор
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(274,3): error C3861: MessageBox: идентификатор не найден
+E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\CMatrix.cpp(275,5): error C3861: exit: идентификатор не найден
+  Создание кода...
+FileTracker : error FTK1013: не удалось найти метку порядка байтов Юникода в файле журнала отслеживания файлов: E:\Education\2 курс 2 сем\KGIG2sem\laba5\lab2_daa\Debug\Lab05.tlog\CL.write.1.tlog. Данные отслеживания недопустимы.
