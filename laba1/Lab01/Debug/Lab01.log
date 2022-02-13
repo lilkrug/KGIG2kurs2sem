@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  ChildView.cpp
+  CMatrix.cpp
+  Lab01.cpp
+  LibGraph.cpp
+E:\Education\2 курс 2 сем\KGIG2sem\laba1\Lab01\LibGraph.cpp(7,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Education\2 курс 2 сем\KGIG2sem\laba1\Lab01\LibGraph.cpp(9,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Education\2 курс 2 сем\KGIG2sem\laba1\Lab01\LibGraph.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Education\2 курс 2 сем\KGIG2sem\laba1\Lab01\LibGraph.cpp(19,24): warning C4018: <: несоответствие типов со знаком и без знака
+  MainFrm.cpp
+  Создание кода...
+E:\Education\2 курс 2 сем\KGIG2sem\laba1\Lab01\LibGraph.cpp(31): warning C4715: ControllerCMatrix::ScalarMult: значение возвращается не при всех путях выполнения
+  Lab01.vcxproj -> E:\Education\2 курс 2 сем\KGIG2sem\laba1\Debug\Lab01.exe
